@@ -1,0 +1,6 @@
+{
+	"wwwDir"           : "H:\\_server\\domains\\admiral3\\templates",
+	"browserConfig" : {
+		"proxy" : "admiral3"
+	}
+}
